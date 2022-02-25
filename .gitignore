@@ -1,6 +1,6 @@
 # Dataset, scripts, trained models
-datasets/
-trained_models/
+datasets
+trained_models
 #scripts/
 
 # Others
